@@ -1,0 +1,7 @@
+name: clean_desktop2
+description: A sample command-line application to clean my desktop of all the shortcut.
+version: 1.0.0
+homepage: https://github.com/shalien/clean-desktop2
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
